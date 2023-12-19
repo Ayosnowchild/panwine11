@@ -1,0 +1,33 @@
+.pryBtn {
+    display: flex;
+    padding: 12px 24px;
+    justify-content: center;
+    align-items: center;
+    border-radius: 8px;
+    border: 1px solid #FFF;
+    color: #FFF;
+    font-family: 'Inter', sans-serif;
+    font-weight: 600;
+    background-color: inherit;
+}
+
+.secBtn {
+    border-radius: 12px;
+    background: #411530;
+    color: #FFF;
+    font-family: 'Inter', sans-serif;
+    font-weight: 600;
+    font-size: 32px;
+}
+
+.terBtn {
+    display: flex;
+    padding: 24px 48px;
+    justify-content: center;
+    align-items: center;
+    border-radius: 12px;
+    background: #80295E;
+    color: #FFF;
+    font-family: 'Inter', sans-serif;
+    font-weight: 600;
+}
