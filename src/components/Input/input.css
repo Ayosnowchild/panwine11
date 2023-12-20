@@ -1,0 +1,16 @@
+.input-container {
+    display: flex;
+    flex-direction: column;
+    gap: 8px
+}
+
+.input-label {
+
+}
+
+.input {
+    /* width: ; */
+    padding: 16px;
+    border-radius: 8px;
+border: 1px solid #F9E3F0;
+}
